@@ -1,5 +1,5 @@
 <?php
-// include shared code
+// include shared code - 401 error page
 include 'lib/common.php';
 
 // start or join the session
